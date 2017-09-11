@@ -23,6 +23,7 @@ Knight Purchase Fund for Photographic Media
 + contextoFuncional:
 
 - URL: https://akronartmuseum.org/collection/Obj2896?sid=1&x=523226&port=208
+- Ubicación: One South High  Akron, Ohio 44308
 - Use Date: N/A
 - Posición dentro de la serie: 1 de 3
 - Autoría: Fotografías tomadas para galería del Museo Akron Art Museum. Tres vistas dentro
