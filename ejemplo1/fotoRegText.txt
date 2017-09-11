@@ -1,6 +1,6 @@
 fotoReg archivo: 20171109_fotoReg001
 
-+ PieDePagina:
++ pieDePagina:
 
 Oscar Muñoz
 (Papayán, Colombia, 1951 - )
@@ -12,29 +12,28 @@ Knight Purchase Fund for Photographic Media
 
 + exifInfo:
 
-Target file: 2002.28.jpg
-File: DSCF7999.RAF, 800 × 641 JPEG, 57,379 bytes (56 kilobytes)
-Copyright: copyright Akron Art Museum 2012
-Camera: Fujifilm FinePixS2Pro
-Date/Time Original: 2007:06:09 10:43:41
-Modify Date: 2013:02:13 16:29:12
-Resolution: 72 pixels/inch
+- Target file: 2002.28.jpg
+- File: DSCF7999.RAF, 800 × 641 JPEG, 57,379 bytes (56 kilobytes)
+- Copyright: copyright Akron Art Museum 2012
+- Camera: Fujifilm FinePixS2Pro
+- Date/Time Original: 2007:06:09 10:43:41
+- Modify Date: 2013:02:13 16:29:12
+- Resolution: 72 pixels/inch
 
 + contextoFuncional:
 
-UTL: https://akronartmuseum.org/collection/Obj2896?sid=1&x=523226&port=208
-Use Date: N/A
-Posición dentro de la serie: 1 de 3
-Autoría: Fotografías tomadas para galería del Museo Akron Art Museum. Tres vistas dentro
-de la serie:
-detalle, frontal, plano general.
-Valor uso en la web: Hace parte del "portfolio 1990 - 1999" del Museo. Es el record 9 de 50.
-Tiene un valor representativo. En particular el modelo humano aporta a la percepción de tamaño
-e interacción.
-Características peculiares: La fotografía fue modificada en 2013, el mismo año
-en que se inició la web del museo.
-Relación con otros textos mediáticos: Es una fotografía de detalle dentro de la serie,
-es de tamaño pequeño en relación a otros elementos, está acompañada de botones
-de redes sociales para compartir.
-Descripción: La fotografía muestra efectivamente el mecanismo para activar la obra
-a través del aliento. También aparece el mecanismo de montaje, tiene buena iluminación. 
+- URL: https://akronartmuseum.org/collection/Obj2896?sid=1&x=523226&port=208
+- Use Date: N/A
+- Posición dentro de la serie: 1 de 3
+- Autoría: Fotografías tomadas para galería del Museo Akron Art Museum. Tres vistas dentro
+  de la serie:detalle, frontal, plano general.
+- Valor uso en la web: Hace parte del "portfolio 1990 - 1999" del Museo. Es el record 9 de 50.
+- Tiene un valor representativo. En particular el modelo humano aporta a la percepción de tamaño
+  e interacción.
+- Características peculiares: La fotografía fue modificada en 2013, el mismo año
+  en que se inició la web del museo.
+- Relación con otros textos mediáticos: Es una fotografía de detalle dentro de la serie,
+  es de tamaño pequeño en relación a otros elementos, está acompañada de botones
+  de redes sociales para compartir.
+- Descripción: La fotografía muestra efectivamente el mecanismo para activar la obra
+  a través del aliento. También aparece el mecanismo de montaje, tiene buena iluminación. 
