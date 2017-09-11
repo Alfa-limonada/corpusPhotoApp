@@ -1,4 +1,4 @@
-fotoReg archivo: 20171109_fotoReg001
+fotoReg archivo: 20171109_fotoReg01
 
 + pieDePagina:
 
