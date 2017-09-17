@@ -4,19 +4,86 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>corpusPhotoApp</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
   </head>
 
   <body>
-    <section class="form-input">
 
+    <section class="header">
+      <div class="container">
+      <h1 class="title">corpus photo app <span>Una aplicación para conformar un corpus de registros fotográficos de obras de arte contemporáneo.</span></h1>
+      <p>Proyecto realizado para la elaboración de tesis de maestría diCom de María Miranda en la FADU - UBA. Es importante realizar investigaciones que reflexionen en torno a la mediatización del arte, ya que cada vez es más difusa la frontera entre las imágenes provenientes del mundo del arte y aquellas que devienen del diseño, la publicidad, el márketing, el periodismo y los medios masivos de comunicación, entre otras. Más allá de crear delimitaciones en un campo que es diverso, híbrido y transdisciplinar por naturaleza, lo que se busca es profundizar en el estudio de los archivos visuales en las artes plásticas.</p>
+    </div>
+    </section>
+    
+
+    <form action="" method="post"> 
+      
+      <div class="infoGeneral">
+
+        <h3>Información general</h3>
+
+        <label for="tituloObra">Título obra:</label>
+        <input id="tituloObra" type="text" name="tituloObra">
+
+        <label for="nombreAgente">Nombre del agente:</label>
+        <input id="nombreAgente" type="text" name="nombreAgente">
+
+        <label for="tipoAgente">Tipo de Agente:</label>
+        <select id="tipoAgente" name="tipoAgente">
+          <option id="instituciones" name="tipoAgente" >Instituciones</option>
+          <option id="medios" name="tipoAgente">Medios</option>
+          <option id="individuales" name="tipoAgente">A. Individuales</option>
+        </select>        
+
+        <label for="reseñaAgente">Breve reseña:</label>
+        <textarea rows="5" cols="60" id="reseñaAgente" type="text" name="reseñaAgente">Este agente...</textarea> 
+
+        <label for="uploadRegistro">Elegir fotografía</label>
+        <input id="fotoRegistro" type="file" name="uploadRegistro">
+
+        <label for="uploadSShot">Elegir captura de pantalla</label>
+        <input id="fotoSShot" type="file" name="uploadSShot">
+
+      </div>
+      
+      <div class="infoRegistro">
+
+        <h3>Nuevo Registro:</h3>
+
+        <label for="busquedaRegistro">Términos de búsqueda:</label>
+        <input id="urlRegistro" type="text" name="urlRegistro" placeholder="Cita textual búsqueda">
+
+        <label for="urlRegistro">URL del registro:</label>
+        <input id="urlRegistro" type="text" name="urlRegistro">
+
+        <label for="lugarRegistro">Lugar del registro:</label>
+        <input id="urlRegistro" type="text" name="urlRegistro">
+
+        <label for="pieDePagina">Pie de página de la fotografía:</label>
+        <textarea rows="5" cols="60" id="pieDePagina" type="text" name="pieDePagina">"Cita textual de la web"</textarea>
+
+        <label for="lineaDeTiempo">Línea de tiempo del registro / Búsqueda, creación y publicación:</label>
+        <input id="fechaBusqueda" type="date" name="lineaDeTiempo">
+        <input id="fechaCreacion" type="date" name="lineaDeTiempo">
+        <input id="fechaPublicacion" type="date" name="lineaDeTiempo">
+
+        <label for="contextos">Contextos del registro:</label>
+        <textarea rows="3" cols="60" id="redesSociales" type="text" name="contextos">¿Este registro fue compartido en redes sociales?</textarea>
+        <textarea rows="3" cols="60" id="contextoProduccion" type="text" name="contextos">¿Cuál es el contexto de producción del registro?¿Cuáles son sus autores?</textarea>
+         <textarea rows="3" cols="60" id="detalles" type="text" name="contextos">Información adicional del registro</textarea>
+
+      </div>
+      
+    </form>
+
+   <section class="footer">
+      
+    <p>Esta aplicación fue desarrollada en Buenos Aires por Alfa-limonada y acevedo93 con la ayuda de muchos tutoriales y buen café en 2017.</p>
+      
     </section>
 
-    <section class="form-output">
-
-
-    </section>
-  
   </body>
+
   <script src="script.js"></script>
 </html>

@@ -1,1 +1,73 @@
+/* Generales */ 
+
+
+@import url('https://fonts.googleapis.com/css?family=Chivo:400,700,900|Lato:300,400');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+	font-family: "lato", sanserif;
+	text-align: center;
+	line-height: 1.6em;
+
+}
+
+p {
+	max-width: 90%;
+}
+
+form {
+	/*max-width: 80%;*/
+	display: flex;
+  	flex-direction: row;
+  	justify-content: space-around;
+  	align-items: baseline;
+}
+
+.infoGeneral {
+	margin: 0 auto;
+  	display: inline-block;
+  	text-align: left;
+}
+
+.infoRegistro {
+	margin: 0 auto;
+  	display: inline-block;
+  	text-align: left;
+}
+
+label, textarea {
+	text-align: left;
+	display: block;
+	padding-top: 0.5em;
+}
+
+/*textos*/
+
+.container {
+	display: flex;
+	flex-direction: column;
+  	justify-content: space-around;
+  	align-items: center;
+
+}
+
+.title {
+	font-family: "chivo", sanserif;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 2.5rem;
+	margin: 0 auto;
+
+	line-height: 1em;
+}
+.title span {
+    max-width: 600px;
+    font-weight: 400;
+    display: block;
+    font-size: .7em;
+    text-transform: none;
+}
 
